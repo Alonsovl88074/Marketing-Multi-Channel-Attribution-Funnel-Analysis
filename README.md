@@ -42,6 +42,9 @@ To solve the core business problem, a **Last-Touch Attribution** model was imple
 *   **Data Warehousing Concepts:** Structuring the final output in a way that's ready to be loaded into a data warehouse (e.g., SQLite).
 
 ## Key Insights & Visualizations
+![Key Insights & Visualizations](snapshotsPloty/Plot1.png)
+
+![Key Insights & Visualizations](snapshotsPloty/Plot2.png)
 
 ### Conversion Funnel
 
